@@ -1,0 +1,35 @@
+_repo: Discourses--Biological--amp--Geological--13-Essays_10060
+_version: 0.0.1
+alternative_title: "Discourses: Biological and Geological\r\nEssays"
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Biology'
+- !lcsh 'Geology'
+- GITenberg
+tableOfContents: On a piece of chalk (1868) -- The problems of the deep sea (1873)
+  -- On some of the results of the expedition of H.M.S. "Challenger" (1875) -- Yeast
+  (1871) -- On the formation of coal (1870) -- On the border territory between the
+  animal and the vegetable kingdoms (1876) -- A lobster; or, The study of zoology
+  (1861) -- Biogenesis and abiogenesis (1870) -- Geological contemporaneity and persistent
+  types of life (1862) -- Geological reform (1869) -- Palaeontology and the doctrine
+  of evolution (1870).
+title: "Discourses: Biological & Geological\r\nEssays"
+url: http://www.gutenberg.org/ebooks/10060
